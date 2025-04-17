@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shamshad Hussain</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳 with 6+ years of experience</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey there 👋, I'm Shamshad Hussain</h1>
+<h3 align="center">🚀 Full Stack Developer | 🇮🇳 Based in India | 💼 6+ Years of Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Lifelong+Learner+%F0%9F%93%9A;6%2B+Years+of+Experience" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
 </p>
 
 ---
@@ -87,15 +88,6 @@
 #### 💻 Other
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamshad-hussain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshad-hussain&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
